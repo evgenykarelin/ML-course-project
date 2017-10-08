@@ -1,5 +1,5 @@
-# ML-course-project
-Practical machine learning course project
+# Practical machine learning course project
+
 The goal of project is to build a prediction model for performing of the 
 Unilateral Dumbbell Biceps Curl in five different fashions: exactly according to the specification (Class A), 
 throwing the elbows to the front (Class B), lifting the dumbbell only halfway (Class C), 

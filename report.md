@@ -171,7 +171,7 @@ Detection Prevalence   0.2851   0.1932   0.1764   0.1624   0.1829
 Balanced Accuracy      0.9980   0.9936   0.9939   0.9911   0.9963
 ```
 
-In sample error is 0.986, what is very good result and out of sample error is even better and equals 0.993.
+The cross validation estimate of out of sample error is 1.4%, what is very good result and the actual out of sample error is even better and equals 0.7%.
 
 The prediction on validation data set
 
